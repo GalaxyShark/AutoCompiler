@@ -1,6 +1,14 @@
 <!-- <h1 align="center"> -->
  <!-- Java AutoCompiler -->
-<p align="center"><img src="readme/logo_svg.svg" width="400"></p>
+
+ 
+<p align="center" width="200px">
+	
+![LOGO](https://user-images.githubusercontent.com/107294391/173175195-7846bf68-bd59-4a00-a0e6-683069a1f2ff.png#gh-dark-mode-only)
+![logo_svg](https://user-images.githubusercontent.com/107294391/173175353-13ab03be-2621-41d1-a81b-4edd109fda8d.svg#gh-light-mode-only)
+
+	
+</p>
 <!-- </h1> -->
 <p align="center">
   <img src="https://img.shields.io/badge/made%20with%20%E2%9D%A4%EF%B8%8F%20-java%20-orange">
